@@ -1,0 +1,23 @@
+*{
+    color: white;
+    font-family: calibri;
+    scroll-behavior: smooth;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover{
+    color: seagreen;
+}
+
+
+a:active{
+    color: yellow;
+}
+
+body{
+    background-color: black;
+}

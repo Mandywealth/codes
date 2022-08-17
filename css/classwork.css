@@ -1,0 +1,14 @@
+*{
+    text-decoration: none;
+    scroll-behavior: smooth;
+    color: white;
+}
+a:hover {
+    color: goldenrod ;
+}
+a:active{
+    color: violet;
+}
+* span{
+    color: white;
+}
